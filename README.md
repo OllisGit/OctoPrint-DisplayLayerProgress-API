@@ -27,7 +27,9 @@ Sample:
 
 ## Setup
 
-TODO not published to offical OctoPrint Plugin-Repository .... Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
+TODO not published to offical OctoPrint Plugin-Repository 
+~~ Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager) ~~
+
 or manually using this URL:
 
     https://github.com/OllisGit/OctoPrint-DisplayLayerProgressAPI/releases/latest/download/master.zip
