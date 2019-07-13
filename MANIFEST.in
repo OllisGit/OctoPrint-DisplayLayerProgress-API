@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_DisplayLayerProgressAPI/templates *
+recursive-include octoprint_DisplayLayerProgressAPI/translations *
+recursive-include octoprint_DisplayLayerProgressAPI/static *
